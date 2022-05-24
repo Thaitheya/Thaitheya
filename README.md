@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [twistedtweets2805.blogspot.com](twistedtweets2805.blogspot.com)
 
-- 💬 Ask me about **HTML, CSS, MYSQL**
+- 💬 Ask me about **HTML, CSS,OracleSql**
 
 - 📫 How to reach me **sudan25092007@gmail.com**
 
