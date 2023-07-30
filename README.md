@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thaitheyasudan PK</h1>
-<h3 align="center">A passionate Front End developer from India</h3>
+<h3 align="center">A passionate learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thaitheya&label=Profile%20views&color=0e75b6&style=flat" alt="thaitheya" /> </p>
 
@@ -11,9 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Thaitheya](https://github.com/Thaitheya)
 
-- 📝 I regularly write articles on [twistedtweets2805.blogspot.com](twistedtweets2805.blogspot.com)
-
-- 💬 Ask me about **HTML, CSS,OracleSql**
+- 💬 Ask me about **Java, OracleSql**
 
 - 📫 How to reach me **sudan25092007@gmail.com**
 
