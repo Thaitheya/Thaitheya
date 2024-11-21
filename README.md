@@ -22,14 +22,12 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Making a GitHub Profile ReadMe](https://medium.com/@edward-ea-acosta/making-a-github-profile-readme-369df55fd78e?source=rss-27ef6b4309cb------2)
-- [Prop vs State](https://medium.com/@edward-ea-acosta/prop-vs-state-7cf59a2dc2b9?source=rss-27ef6b4309cb------2)
-- [JavaScript — let, const, or var](https://medium.com/@edward-ea-acosta/javascript-let-const-or-var-1c3f4f764b0e?source=rss-27ef6b4309cb------2)
-- [Using Faker in Ruby](https://medium.com/@edward-ea-acosta/using-faker-in-ruby-eb488b6d0c05?source=rss-27ef6b4309cb------2)
-- [Failing my first (mock)code challenge](https://medium.com/@edward-ea-acosta/failing-my-first-mock-code-challenge-8f0be5218afb?source=rss-27ef6b4309cb------2)
+- [Cut the Prop-Drilling: Revolutionize React State Management with Context API](https://medium.com/@thaitheyasudanpk/cut-the-prop-drilling-revolutionize-react-state-management-with-context-api-fe3deee4623a)
+- [Bun vs Deno vs Node.js: Choosing the Right JavaScript Runtime for Your Project](https://medium.com/@thaitheyasudanpk/bun-vs-deno-vs-node-js-choosing-the-right-javascript-runtime-for-your-project-28c47cb67326)
+- [Demystifying Middleware in Node.js: The Backbone of Express Applications](https://medium.com/@thaitheyasudanpk/demystifying-middleware-in-node-js-the-backbone-of-express-applications-3091846b69b0)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...][medium]
+➡️ [more blog posts...][https://medium.com/@thaitheyasudanpk]
 
 ---
 
