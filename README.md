@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Thaitheya](https://github.com/Thaitheya)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React, NodeJS**
 
 - 📫 How to reach me **sudan25092007@gmail.com**
 
@@ -46,6 +46,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="whychooseaname's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Thaitheya&show_icons=true&hide_border=true&hide=stars" />
+  <img align="left" alt="thaitheya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Thaitheya&show_icons=true&hide_border=true&hide=stars" />
 
 </details>
