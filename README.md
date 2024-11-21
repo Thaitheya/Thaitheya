@@ -20,8 +20,20 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.explicit.bing.net%2Fth%3Fid%3DOIP.K-4RqDC6zFrpAG31ayDDOgHaHa%26pid%3DApi&f=1&ipt=5da42c8e9addd21aa92fb9d87dc9b91ebe85c9c9746eca9e24599d39eaa5c4e3&ipo=images" height="30" width="40" /> <img src="https://www.google.com/imgres?q=nodejs&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D10156186800336579&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fgroups%2F359999434098189%2F&docid=exoq-UYT9ing2M&tbnid=_BEhxOEaP24CoM&vet=12ahUKEwipwuqj-eyJAxX5RmwGHWZNGAsQM3oECCcQAA..i&w=1640&h=923&hcb=2&ved=2ahUKEwipwuqj-eyJAxX5RmwGHWZNGAsQM3oECCcQAA" height="30" width="40"/></p>
-
+  <p align="left">
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="git-scm-icon.svg" alt="git" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img src="javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+      <img src="linux-original.svg" alt="linux" width="40" height="40"/>
+    </a>
+    <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
+      <img src="nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+    </a>
+  </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thaitheya&show_icons=true&locale=en&layout=compact" alt="thaitheya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thaitheya&show_icons=true&locale=en" alt="thaitheya" /></p>
