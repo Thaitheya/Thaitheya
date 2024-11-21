@@ -27,7 +27,7 @@
 - [Demystifying Middleware in Node.js: The Backbone of Express Applications](https://medium.com/@thaitheyasudanpk/demystifying-middleware-in-node-js-the-backbone-of-express-applications-3091846b69b0)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...][https://medium.com/@thaitheyasudanpk]
+➡️ more blog posts...[https://medium.com/@thaitheyasudanpk]
 
 ---
 
