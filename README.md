@@ -22,7 +22,8 @@
 <h3 align="left">Languages and Tools:</h3>
   <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="git-scm-icon.svg" alt="git" width="40" height="40"/>
+      <img src="![image](https://github.com/user-attachments/assets/7c7d4ddf-227f-44fe-afec-fcc87d4ba283)
+" alt="git" width="40" height="40"/>
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img src="javascript-original.svg" alt="javascript" width="40" height="40"/>
