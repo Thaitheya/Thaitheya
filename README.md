@@ -19,6 +19,20 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/thaitheya-sudan-p-k-64a882202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thaitheya-sudan-p-k-64a882202" height="50" width="30" /></a>
 </p>
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Making a GitHub Profile ReadMe](https://medium.com/@edward-ea-acosta/making-a-github-profile-readme-369df55fd78e?source=rss-27ef6b4309cb------2)
+- [Prop vs State](https://medium.com/@edward-ea-acosta/prop-vs-state-7cf59a2dc2b9?source=rss-27ef6b4309cb------2)
+- [JavaScript — let, const, or var](https://medium.com/@edward-ea-acosta/javascript-let-const-or-var-1c3f4f764b0e?source=rss-27ef6b4309cb------2)
+- [Using Faker in Ruby](https://medium.com/@edward-ea-acosta/using-faker-in-ruby-eb488b6d0c05?source=rss-27ef6b4309cb------2)
+- [Failing my first (mock)code challenge](https://medium.com/@edward-ea-acosta/failing-my-first-mock-code-challenge-8f0be5218afb?source=rss-27ef6b4309cb------2)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...][medium]
+
+---
+
 <h3 align="left">Languages and Tools:</h3>
  <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
