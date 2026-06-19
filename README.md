@@ -1,56 +1,87 @@
-<h1 align="center">Hi 👋, I'm Thaitheyasudan </h1>
-<h3 align="center">A passionate Developer from India</h3>
+# Hi 👋, I'm Thaitheyasudan P K
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thaitheya&label=Profile%20views&color=0e75b6&style=flat" alt="thaitheya" /> </p>
+### Java Full-Stack Developer
 
-- 🌱 I’m currently learning **MongoDB, Express, React, Nodejs**
+I'm a Software Developer passionate about building scalable web applications using React, TypeScript, Java and Spring Boot. With 3 years of experience in Quality Assurance and Automation Testing, I bring a strong focus on code quality, testing, and user experience.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Thaitheya](https://github.com/Thaitheya)
+* 🌱 Currently learning **Advanced TypeScript, Data Structures & Algorithms, System Design**
+* 💻 Building **Full-Stack MERN Applications and AI-Powered Dashboards**
+* 🚀 Transitioning from **QA Engineer → Software Developer**
+* 📝 Writing technical articles on React, and Web Development
+* 🎯 Goal: Become a highly skilled Full-Stack Software Engineer
 
-- 💬 Ask me about **React, NodeJS**
+## 🔗 Portfolio & Profiles
 
-- 📫 How to reach me **sudan25092007@gmail.com**
+* GitHub: [github.com/Thaitheya](https://github.com/Thaitheya)
+* LinkedIn: [linkedin.com/in/thaitheya-sudan-p-k-64a882202](https://www.linkedin.com/in/thaitheya)
+* Medium: [medium.com/@thaitheyasudanpk](https://medium.com/@thaitheyasudanpk)
+* Email: [thaitheyasudanpk@gmail.com](mailto:thaitheyasudanpk@gmail.com)
 
-- ⚡ Fun fact **I think i have crazy on Web Developing..**
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/thaitheyasudank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/thaitheyasudank" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/thaitheya-sudan-p-k-64a882202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thaitheya-sudan-p-k-64a882202" height="50" width="30" /></a>
-</p>
+### Frontend
 
-### 📕 Latest Blog Posts
+* React.js
+* TypeScript
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+* Tailwind CSS
 
-<!-- BLOG-POST-LIST:START -->
-- [Cut the Prop-Drilling: Revolutionize React State Management with Context API](https://medium.com/@thaitheyasudanpk/cut-the-prop-drilling-revolutionize-react-state-management-with-context-api-fe3deee4623a)
-- [Bun vs Deno vs Node.js: Choosing the Right JavaScript Runtime for Your Project](https://medium.com/@thaitheyasudanpk/bun-vs-deno-vs-node-js-choosing-the-right-javascript-runtime-for-your-project-28c47cb67326)
-- [Demystifying Middleware in Node.js: The Backbone of Express Applications](https://medium.com/@thaitheyasudanpk/demystifying-middleware-in-node-js-the-backbone-of-express-applications-3091846b69b0)
-<!-- BLOG-POST-LIST:END -->
+### Backend
 
-➡️ more blog posts...[https://medium.com/@thaitheyasudanpk]
+* Java
+* Python
+* Spring Boot
+* Fast API
+* REST APIs
+
+### Database
+
+* PostgreSQL
+* Oracle
+
+### Tools & Platforms
+
+* Git
+* GitHub
+* Postman
+* IntelliJ IDEA
+* VS Code
+* Jenkins
+
+## 🚀 Featured Projects
+
+### AI-Powered Business Insights Dashboard
+
+Upload CSV files, analyze business data using AI, and generate interactive visualizations.
+
+### Expense Tracker Application
+
+Track income and expenses with insightful reports and analytics.
+
+### Weather Forecast Application
+
+Real-time weather information using external APIs and responsive UI.
+
+### URL Shortener Application
+
+Full-stack URL shortening service built using MERN Stack.
+
+## 📚 Latest Blog Posts
+
+* Cut the Prop-Drilling: Revolutionize React State Management with Context API
+* Bun vs Deno vs Node.js: Choosing the Right JavaScript Runtime for Your Project
+* Demystifying Middleware in Node.js: The Backbone of Express Applications
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thaitheya\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thaitheya\&layout=compact\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Thaitheya\&theme=tokyonight)
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
- <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
- <img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
- <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
- <img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
- <img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
- <img align="left" alt="MongoDB" width="50px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
- <img align="left" alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
- <img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
- <img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
- <img align="left" alt="TypeScript" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-
-<!-- Add padding here -->
-<div style="padding-top: 20px;">
-  <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thaitheya&show_icons=true&locale=en&layout=compact" alt="thaitheya" />
-  </div>
-
-  <details>
-    <summary>:zap: GitHub Stats</summary>
-    <img align="left" alt="thaitheya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thaitheya&show_icons=true&hide_border=true&hide=stars" />
-  </details>
-</div>
+⭐ Always learning, building, and improving one project at a time.
