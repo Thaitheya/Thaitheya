@@ -13,7 +13,7 @@ I'm a Software Developer passionate about building scalable web applications usi
 ## 🔗 Portfolio & Profiles
 
 * GitHub: [github.com/Thaitheya](https://github.com/Thaitheya)
-* LinkedIn: [linkedin.com/in/thaitheya-sudan-p-k-64a882202](https://www.linkedin.com/in/thaitheya)
+* LinkedIn: [linkedin.com/in/thaitheya](https://www.linkedin.com/in/thaitheya)
 * Medium: [medium.com/@thaitheyasudanpk](https://medium.com/@thaitheyasudanpk)
 * Email: [thaitheyasudanpk@gmail.com](mailto:thaitheyasudanpk@gmail.com)
 
