@@ -1,4 +1,4 @@
-# Hi 👋, I'm Thaitheyasudan P K
+# Hi 👋, I'm Thaitheyasudan
 
 ### Java Full-Stack Developer
 
